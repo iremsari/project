@@ -1,0 +1,10 @@
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\bin\Debug\TrackNumeratorV2.exe.config
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\bin\Debug\TrackNumeratorV2.exe
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\bin\Debug\TrackNumeratorV2.pdb
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\obj\Debug\TrackNumeratorV2.Form1.resources
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\obj\Debug\TrackNumeratorV2.Properties.Resources.resources
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\obj\Debug\TrackNumeratorV2.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\obj\Debug\TrackNumeratorV2.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\obj\Debug\TrackNumeratorV2.exe
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\obj\Debug\TrackNumeratorV2.pdb
+C:\Users\Murat\Desktop\altay proje\TrackNumeratorV2\TrackNumeratorV2\obj\Debug\TrackNumeratorV2.csprojAssemblyReference.cache
